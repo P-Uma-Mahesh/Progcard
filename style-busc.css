@@ -1,0 +1,17 @@
+.main{
+    background-color:palevioletred;
+    color:blue;
+    margin:40px,auto;
+    text-align:center;
+    border:1px solid black;
+    border-bottom:5px solid purple;
+    /* border-bottom:double; */
+    padding:20px;
+    display:flex;
+    justify-content:space-around;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info{
+    /* margin-left:10px; */
+}
